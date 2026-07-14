@@ -1,31 +1,53 @@
 # LeetCode Java Solutions
 
-## Total Problems Solved: 2
+## Total Problems Solved: 6
 
 | Difficulty | Count |
-|-----------|-----------|
-| Easy | 7 |
-| Medium | 0 |
-| Hard | 0 |
-| Total | 2 |
+|------------|-------|
+| Easy       | 6     |
+| Medium     | 0     |
+| Hard       | 0     |
+| Total      | 6     |
 
 ## Solved Problems
 
-### Easy
+### Easy (6)
 
 | Problem No. | Problem Name |
 |------------|-------------|
 | #1 | Two Sum |
 | #9 | Palindrome Number |
+| #412 | Fizz Buzz |
+| #1342 | Number of Steps to Reduce a Number to Zero |
+| #1480 | Running Sum of 1d Array |
+| #1672 | Richest Customer Wealth |
 
-### Medium
+### Medium (0)
 
 - None
 
-### Hard
+### Hard (0)
 
 - None
 
 ## Language Used
 
 - Java
+
+## Repository Structure
+
+```
+LeetCode-Java/
+│
+├── Easy/
+├── Medium/
+├── Hard/
+└── README.md
+```
+
+## Goal
+
+- Solve LeetCode problems consistently.
+- Improve problem-solving skills using Java.
+- Maintain a daily GitHub contribution streak.
+
